@@ -83,9 +83,9 @@ I love turning complex ideas into real-world products that feel smooth, fast, an
 ## GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/output/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/output/dist/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/output/dist/github-snake.svg"/>
 </picture>
 
 ---
