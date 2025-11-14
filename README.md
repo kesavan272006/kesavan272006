@@ -89,4 +89,5 @@ I love turning complex ideas into real-world products that feel smooth, fast, an
 ---
 
 ## Visitor Count
-[![](https://visitcount.itsvg.in/api?id=kesavan272006&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=kesavan272006&color=grey&style=flat-square)
+
