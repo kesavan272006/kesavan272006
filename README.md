@@ -1,7 +1,7 @@
 <!-- Header Typing Animation -->
 <p align="center">
   <a href="https://github.com/kesavan272006">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+App+&+Web+ %Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
   </a>
 </p>
 
