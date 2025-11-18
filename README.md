@@ -1,37 +1,37 @@
-<!-- Header Typing Animation -->
 <p align="center">
-  <a href="https://github.com/kesavan272006">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+App+and+Web+Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
-  </a>
+  <a href="https://github.com/kesavan272006">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+App+and+Web+Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about building intelligent, reliable, and scalable systems.  
-My work spans **machine learning**, **deep learning**, **LLMs**, **mobile development**, **React**, **backend engineering**, and **automation systems**.  
-I love turning complex ideas into real-world products that feel smooth, fast, and modern.
+I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about building intelligent, reliable, and scalable systems. My work spans **machine learning**, **deep learning**, **LLMs**, **mobile development**, **React**, **backend engineering**, and **automation systems**. I love turning complex ideas into real-world products that feel smooth, fast, and modern.
 
 ---
 
-## Socials
+## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-guru-79ba17339/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kesav_g_iiitk_34472)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_kesavan_here/?hl=en)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-guru-79ba17339/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kesav_g_iiitk_34472)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_kesavan_here/?hl=en)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61583609495736)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### Languages (Priority Ordered)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-2C2C2C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 
 ### AI / ML / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,8 +43,8 @@ I love turning complex ideas into real-world products that feel smooth, fast, an
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -72,7 +72,9 @@ I love turning complex ideas into real-world products that feel smooth, fast, an
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
+
+> **Note:** The GitHub Streak widget has been corrected to use your exact username. If it still doesn't appear, the server hosting the widget may be experiencing downtime.
 
 ![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan272006&show_icons=true&theme=tokyonight&hide_border=true)
 ![Kesavan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan272006&layout=compact&theme=tokyonight&hide_border=true)
@@ -80,15 +82,14 @@ I love turning complex ideas into real-world products that feel smooth, fast, an
 
 ---
 
-## GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
 </picture>
 
 ---
 
-## Visitor Count
+## 📊 Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=kesavan272006&color=grey&style=flat-square)
-
