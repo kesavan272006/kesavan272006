@@ -74,8 +74,6 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 
 ## 📈 GitHub Stats
 
-> **Note:** The GitHub Streak widget has been corrected to use your exact username. If it still doesn't appear, the server hosting the widget may be experiencing downtime.
-
 ![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan272006&show_icons=true&theme=tokyonight&hide_border=true)
 ![Kesavan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan272006&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesavan272006&theme=tokyonight&hide_border=true)
