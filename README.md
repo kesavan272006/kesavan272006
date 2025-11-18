@@ -76,7 +76,7 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 
 ![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan272006&show_icons=true&theme=tokyonight&hide_border=true)
 ![Kesavan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan272006&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesavan272006&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/github-readme-streak-stats.svg?user=kesavan272006&theme=tokyonight&hide_border=true)
 
 ---
 
