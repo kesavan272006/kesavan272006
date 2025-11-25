@@ -1,8 +1,15 @@
 <p align="center">
-  <a href="https://github.com/kesavan272006">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+App+and+Web+Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
-  </a>
+  <a href="https://github.com/kesavan272006">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Kesavan+G.;AI%2FML+Engineer+%7C+Full+Stack+App+and+Web+Developer;Deep+Learning+Research+Enthusiast.;Building+AI+Systems+Fueled+By+Code+%2B+Caffeine.">
+  </a>
 </p>
+
+---
+
+## ✨ Random Dev Quote of the Day
+
+> <!--STARTS_HERE_QUOTE_README-->
+> <!--ENDS_HERE_QUOTE_README-->
 
 ---
 
@@ -14,9 +21,9 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-guru-79ba17339/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kesav_g_iiitk_34472)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_kesavan_here/?hl=en)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesavan-guru-79ba17339/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kesav_g_iiitk_34472)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_kesavan_here/?hl=en)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61583609495736)
 
 ---
@@ -31,7 +38,7 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### AI / ML / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,7 +64,6 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-
 ### Cloud / Hosting
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -82,9 +88,9 @@ I’m **Kesavan G**, an AI/ML Engineer and Full-Stack Developer passionate about
 
 ## 🐍 GitHub Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-snake.svg"/>
 </picture>
 
 ---
