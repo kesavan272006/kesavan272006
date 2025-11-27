@@ -18,7 +18,7 @@
 
 # 👋 **About Me**
 
-<img align="right" width="350" src="https://i.gifer.com/4C2m.gif">
+<img align="right" width="350" src="https://makeagif.com/gif/neural-net-pulsing-animation-MINID4.gif" />
 
 
 - 🤖 **AI & Deep Learning Developer** (Neural Networks, Training Pipelines, LLMs)  
