@@ -18,7 +18,8 @@
 
 # 👋 **About Me**
 
-<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWM0Z3EwOWM3bWZjaGxuMmlzamI0OHZxcTRoYjl4ejN0ZWxzdjRyMiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/gF2lATe6vVTIW/giphy.webp">
+<img align="right" width="350" src="https://i.gifer.com/3HEk.gif">
+
 
 - 🤖 **AI & Deep Learning Developer** (Neural Networks, Training Pipelines, LLMs)  
 - 📊 Working on: **Machine Learning, Python, AI Systems, Computer Vision, NLP**  
