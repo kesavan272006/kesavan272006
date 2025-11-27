@@ -4,10 +4,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20G&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
 </div>
-
-<!-- ========================= -->
-<!-- 🔥 Typing Intro -->
-<!-- ========================= -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=16F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Flutter+%7C+React+Developer;Building+Kotinos+%F0%9F%8F%86;Tech+Explorer+%7C+Problem+Solver)](https://git.io/typing-svg)
@@ -129,9 +125,6 @@
 
 ---
 
-<!-- ========================= -->
-<!-- 🌊 Futuristic Footer Wave -->
-<!-- ========================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,5,30&section=footer" />
 </div>
