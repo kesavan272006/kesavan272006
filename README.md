@@ -26,7 +26,7 @@
 - 💻 Also building apps using **React.js, Flutter, React Native, FastAPI**  
 - 🎨 Good at **UI/UX Design (Figma), modern web layouts, responsive design**  
 - 🔥 Interested in **AI-powered mobile apps, model deployment, MLOps**  
-- ⚡ Fun Fact: I turn research ideas → working products  
+- ⚡ Fun Fact: I turn research ideas into working products  
 
 <br clear="right"/>
 
