@@ -2,7 +2,7 @@
 <!-- 🌊 Futuristic Header Wave -->
 <!-- ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20G&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20Guru&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <!-- ========================= -->
