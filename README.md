@@ -1,8 +1,5 @@
-<!-- ========================= -->
-<!-- 🌊 Futuristic Header Wave -->
-<!-- ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20G&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20G&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -18,12 +15,12 @@
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 
-- 🤖 **AI & Deep Learning Developer** (Neural Networks, Training Pipelines, LLMs)  
-- 📊 Working on: **Machine Learning, Python, AI Systems, Computer Vision, NLP**  
-- 💻 Also building apps using **React.js, Flutter, React Native, FastAPI**  
-- 🎨 Good at **UI/UX Design (Figma), modern web layouts, responsive design**  
-- 🔥 Interested in **AI-powered mobile apps, model deployment, MLOps**  
-- ⚡ Fun Fact: I turn research ideas into working products  
+- 🤖 **AI & Deep Learning Developer** (Neural Networks, Training Pipelines, LLMs)  
+- 📊 Working on: **Machine Learning, Python, AI Systems, Computer Vision, NLP**  
+- 💻 Also building apps using **React.js, Flutter, React Native, FastAPI**  
+- 🎨 Good at **UI/UX Design (Figma), modern web layouts, responsive design**  
+- 🔥 Interested in **AI-powered mobile apps, model deployment, MLOps**  
+- ⚡ Fun Fact: I turn research ideas into working products  
 
 <br clear="right"/>
 
@@ -75,19 +72,18 @@
 ---
 
 <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesavan272006&show_icons=true&theme=react&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kesavan272006&theme=react&hide_border=true" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesavan272006&show_icons=true&theme=react&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kesavan272006&theme=react&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan272006&layout=compact&theme=react&hide_border=true" />
-
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan272006&layout=compact&theme=react&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavan272006&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
@@ -107,10 +103,10 @@
 # 🐍 **Contribution Snake**
 
 <div align="center">
-  
+  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/kesavan272006/kesavan272006/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -129,9 +125,6 @@
 
 ---
 
-<!-- ========================= -->
-<!-- 🌊 Footer Wave -->
-<!-- ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,5,30&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,5,30&section=footer" />
 </div>
