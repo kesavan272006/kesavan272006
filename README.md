@@ -118,8 +118,6 @@
 
 ---
 
-# 🔗 **Connect with Me**
-
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_kesavan_here/?hl=en)
