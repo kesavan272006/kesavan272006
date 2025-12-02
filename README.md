@@ -5,9 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,5,30&text=Kesavan%20G&fontAlignY=38&fontSize=80&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<!-- ========================= -->
-<!-- ⚡ Typing Intro -->
-<!-- ========================= -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=16F7FF&center=true&vCenter=true&width=900&lines=Deep+Learning+%26+AI+Engineer;Machine+Learning+Research+Enthusiast;Full+Stack+%7C+Mobile+Developer;React+%7C+Flutter+%7C+FastAPI;Building+Smart+%26+Intelligent+Systems)](https://git.io/typing-svg)
