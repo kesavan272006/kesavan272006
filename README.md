@@ -23,8 +23,6 @@
 
 ---
 
-# 🧠 **AI, ML & Deep Learning Tech Stack**
-
 <div align="center">
 
 ### 🤖 **Core AI/ML**
