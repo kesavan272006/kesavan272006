@@ -118,8 +118,6 @@
 
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,5,30&section=footer" />
 </div>
