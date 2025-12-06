@@ -12,12 +12,12 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🤖 **AI & Deep Learning Developer**  
-- 📊 Working on: **ML, Python, CV, NLP, AI Systems**  
-- 💻 Also building **React.js • Flutter • React Native • FastAPI** apps  
-- 🎨 Good at **UI/UX with Figma**  
-- 🔥 Interested in **AI-powered Mobile Apps & MLOps**  
-- ⚡ I turn research ideas into real working products  
+- **AI & Deep Learning Developer**  
+- Working on: **ML, Python, CV, NLP, AI Systems**  
+- Also building **React.js • Flutter • React Native • FastAPI** apps  
+- Good at **UI/UX with Figma**  
+- Interested in **AI-powered Mobile Apps & MLOps**  
+- I turn research ideas into real working products  
 
 <br clear="right"/>
 
@@ -32,13 +32,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=python)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-### 🧬 **Deep Learning**
+### **Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### 🧠 **LLMs & AI Systems**
+### **LLMs & AI Systems**
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=000)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
@@ -46,17 +46,17 @@
 
 ---
 
-### 🌐 **Web Development**
+### **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 
-### 📱 **Mobile Development**
+### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-### 🎨 **UI/UX**
+### **UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
@@ -94,7 +94,7 @@
 
 ---
 
-# 🐍 **Contribution Snake**
+# **Contribution Snake**
 
 <div align="center">
 
